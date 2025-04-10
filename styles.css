@@ -9,3 +9,6 @@
     transition: opacity 0.3 ease;
     border-radius: 5%;
 }
+.save-button:hover{
+    opacity: 1;
+}
